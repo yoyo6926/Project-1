@@ -1,0 +1,35 @@
+
+.navigationbar{
+    font-size: large;
+    font-family: serif;
+    font-style: italic;
+    background-color:peachpuff;
+    color: black;
+    height: 90px;
+    font-size: x-large;
+}
+.image1{
+    width: 80px;
+    height: 100px;
+}
+.navoption{
+    float: right;
+    margin-right: 10px;
+}
+.article{
+    width: 50%;
+    height:fit-content;
+    background-color: rgb(255, 163, 168);
+    font-family: serif;
+    font-style: italic;
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: larger;
+
+}
+#foodlist{
+    height: 150px;
+}
+.center{
+    text-align: center;
+}
